@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como trabalho prático para a disciplina de **Ling
 
 O sistema modela um cenário de combate onde diferentes tipos de personagens (como Magos, Paladinos e Clérigos) podem equipar armas específicas e interagir entre si. O projeto foca na aplicação estrita dos pilares da POO.
 
-### 🚀 Funcionalidades e Conceitos Aplicados
+### Funcionalidades e Conceitos Aplicados
 
 * **Abstração:** Uso de classes abstratas (ex: `Personagem`, `Arma`) para definir modelos genéricos.
 * **Herança:** Criação de classes específicas (ex: `Mago`, `Espada`) que herdam comportamentos das classes pai.
@@ -47,12 +47,12 @@ src/
 
 
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Java (JDK)
 * **IDE:** Visual Studio Code (VS Code)
 
-## ▶️ Como Executar
+## Como Executar
 
 1.  Certifique-se de ter o Java instalado em sua máquina.
 2.  Clone este repositório ou baixe os arquivos.
